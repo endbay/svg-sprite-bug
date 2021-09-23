@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.44 27.47">
+    <clipPath id="party-clip">
+        <path fill="none" d="M8.31 6.92l12.24 12.24-18.09 5.85L8.31 6.92z"/>
+    </clipPath>
+    <path fill="#ffd026" d="M8.31 6.92l12.24 12.24-18.09 5.85L8.31 6.92z"/>
+    <g clip-path="url(#party-clip)">
+        <path fill="none" stroke="#fa490a" stroke-miterlimit="10" stroke-width="2"
+              d="M4.66 10.51c-.73.73 1.43 4.07 4.83 7.47s6.74 5.56 7.47 4.83M1.14 14c-.73.75 1.44 4.1 4.86 7.49s6.74 5.56 7.47 4.83"/>
+        <path style="mix-blend-mode:multiply" fill="#e6bb22" d="M15.64 15.34L2.46 25.01l20.21-4.4-7.03-5.27z"/>
+    </g>
+    <ellipse cx="14.62" cy="12.84" rx="2.68" ry="8.7" transform="rotate(-45 14.62 12.844)" fill="#d47f00"/>
+    <ellipse cx="14.62" cy="12.84" rx="2.68" ry="8.7" transform="rotate(-45 14.62 12.844)" fill="#bf7300"/>
+    <path fill="#fa490a"
+          d="M15.48 14A8 8 0 0 1 21 11.25a8.46 8.46 0 0 1 6.18 2.06l-1.42 1.42A6.93 6.93 0 0 0 21 12.25 7.52 7.52 0 0 0 15.48 14z"/>
+    <path fill="#0073d5"
+          d="M13.48 13a7.56 7.56 0 0 0 1.78-5.5 7.07 7.07 0 0 0-2.49-4.8l1.41-1.4a8.55 8.55 0 0 1 2.08 6.21A8.06 8.06 0 0 1 13.48 13z"/>
+    <path fill="#4db5da" transform="rotate(90 6.935 1.495)" d="M5.45-.01h2.98v3H5.45z"/>
+    <path fill="#0073d5" transform="rotate(90 20.44 8)" d="M19.44 7h2v2h-2z"/>
+    <path fill="#fa490a" transform="rotate(45 19.44 2.003)" d="M18.02.59h2.83v2.83h-2.83z"/>
+    <path fill="#fa490a" d="M25.44 7h3v3h-3z"/>
+    <circle fill="#fa490a" cx="25.44" cy="4" r="1"/>
+    <path fill="#4db5da" transform="rotate(-45 25.444 20)" d="M24.02 18.59h2.83v2.83h-2.83z"/>
+</svg>
